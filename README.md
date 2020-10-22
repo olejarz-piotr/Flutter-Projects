@@ -1,2 +1,3 @@
 # Flutter-Projects
-Projects made with help of online courses
+
+First applications inf Flutter Dart
